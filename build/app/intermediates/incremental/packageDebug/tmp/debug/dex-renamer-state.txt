@@ -1,0 +1,4 @@
+#Wed Dec 06 21:44:16 NPT 2023
+base.0=/Users/aashishshah/Desktop/cal/cal/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
